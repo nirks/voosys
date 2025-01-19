@@ -2,7 +2,7 @@
 
 ## 🌟 Descrição
 
-Projeto Voosys melhorado com algumas coisas a mais espero que tenha gostad, vc apenas tera que mudar as imagens e se quiser trocar os texto!!!...
+Projeto Voosys aprimorado com novos recursos! Espero que você tenha gostado. Para personalizar, basta substituir as imagens e, se preferir, ajustar os textos conforme necessário.
 
 ---
 
